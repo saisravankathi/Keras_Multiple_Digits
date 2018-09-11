@@ -1,0 +1,5 @@
+The problem statement is to count the number of # in each lines and print the count line by line.
+
+Once the character '#' is identified, then try with other characters too.
+
+The problem statement is in the image "problem.png"
