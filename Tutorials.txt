@@ -1,3 +1,13 @@
 https://www.learnopencv.com/keras-tutorial-fine-tuning-using-pre-trained-models/
 
 Nice tutorial to learn about imagenetscraper and how to fine tune the pretrained model to detect various images.
+
+
+https://github.com/hardikvasa/google-images-download
+To download images by keyword.
+
+
+
+https://www.analyticsvidhya.com/blog/2016/04/deep-learning-computer-vision-introduction-convolution-neural-networks/
+
+Good introduction to nerual nets and   CNN with formulae.
